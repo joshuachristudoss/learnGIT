@@ -2,3 +2,4 @@ version1 file2
 change1 through version1
 
 changes by master branch
+change2 by version1
