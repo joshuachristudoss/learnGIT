@@ -2,4 +2,5 @@ version1 file2
 change1 through version1
 
 changes by master branch
-change2 by version1
+
+change3 by version2 - skips version1 changes and reload this in master by merge
